@@ -37,10 +37,6 @@ A comprehensive and modern Flutter application that combines task management and
 </p>
 
 
-
-
-
-
 ### Authentication Flow
 - Splash Screen with Lottie Animation
 - Onboarding Screens (3 pages)
@@ -95,8 +91,8 @@ Before running this application, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/smart_todo_list.git
-cd smart_todo_list
+git clone https://github.com/Raunit0121/Notevia
+cd Notevia
 ```
 
 ### 2. Install Dependencies
