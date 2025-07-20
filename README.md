@@ -1,4 +1,4 @@
-# 📝 Smart Todo List - Flutter Application
+# 📝Notevia - Flutter Application
 
 A comprehensive and modern Flutter application that combines task management and note-taking capabilities with Firebase backend integration.
 
@@ -272,16 +272,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help with the application:
 
 - **Issues**: Create an issue on GitHub
-- **Email**: your.email@example.com
-- **Documentation**: Check the inline code comments
+- **Email**: kumarraunit47@gmail.com
+
 
 ## 🔄 Version History
 
 - **v1.0.0** - Initial release with basic todo and notes functionality
-- **v1.1.0** - Added authentication and Firebase integration
-- **v1.2.0** - Enhanced UI and added notifications
-- **v1.3.0** - Added search and sharing features
-
 ---
 
-**Made with ❤️ using Flutter and Firebase**
+**Made with ❤️ Raunit Goyal ❤️ using Flutter and Firebase**
