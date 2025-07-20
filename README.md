@@ -29,6 +29,11 @@ A comprehensive and modern Flutter application that combines task management and
 - **🔄 Real-time Sync**: Firebase Firestore for cloud synchronization
 
 ## 📱 Screenshots
+![WhatsApp Image 2025-07-20 at 14 45 10_95ec8e75](https://github.com/user-attachments/assets/deb280c9-95ad-4f27-9098-04d6b00059e3)|![WhatsApp Image 2025-07-20 at 14 45 10_844c3ddb](https://github.com/user-attachments/assets/cfa172fb-48b6-462f-9105-17c8cfca8473)|![WhatsApp Image 2025-07-20 at 14 45 09_bb496135](https://github.com/user-attachments/assets/ccb34a9f-9364-4fb7-bdb3-06cbada34496)|![WhatsApp Image 2025-07-20 at 14 45 09_ce1642bb](https://github.com/user-attachments/assets/2977fa1c-c9b9-44b3-b79b-f9fb60aab43f)
+
+
+
+
 
 ### Authentication Flow
 - Splash Screen with Lottie Animation
