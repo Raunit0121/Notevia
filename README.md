@@ -29,11 +29,11 @@ A comprehensive and modern Flutter application that combines task management and
 - **🔄 Real-time Sync**: Firebase Firestore for cloud synchronization
 
 ## 📱 Screenshots
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/deb280c9-95ad-4f27-9098-04d6b00059e3" width="300"/>
-  <img src="https://github.com/user-attachments/assets/cfa172fb-48b6-462f-9105-17c8cfca8473" width="300"/>
-  <img src="https://github.com/user-attachments/assets/ccb34a9f-9364-4fb7-bdb3-06cbada34496" width="300"/>
-  <img src="https://github.com/user-attachments/assets/2977fa1c-c9b9-44b3-b79b-f9fb60aab43f" width="300"/>
+<p float="center">
+  <img src="https://github.com/user-attachments/assets/deb280c9-95ad-4f27-9098-04d6b00059e3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/cfa172fb-48b6-462f-9105-17c8cfca8473" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ccb34a9f-9364-4fb7-bdb3-06cbada34496" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2977fa1c-c9b9-44b3-b79b-f9fb60aab43f" width="200"/>
 </p>
 
 
